@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @roager
-- 👀 I’m interested in Learning processes
-- 🌱 I’m currently learning about Data Science Applications
-- 💞️ I’m looking to collaborate on any project for newbies
-- 📫 How to reach me => by email roager.mx@gmail.com
+👋 Hi, I’m @roager
+👀 I specialize in learning processes and digital training solutions
+🌱 I’m currently developing skills in Data Science applications
+💞️ I’m open to collaborating on projects involving Data Science, Machine Learning, or AI
+📫 You can reach me at roager.mx@gmail.com
 
 <!---
 roager/roager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
